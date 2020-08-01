@@ -11,7 +11,7 @@ A  **car**  (or  **automobile**) is a wheeled  [motor vehicle](https://en.wikipe
 
 Cars came into global use during the 20th century, and  [developed economies](https://en.wikipedia.org/wiki/Developed_country "Developed country")  depend on them. The year 1886 is regarded as the birth year of the modern car when German inventor  [Karl Benz](https://en.wikipedia.org/wiki/Karl_Benz "Karl Benz")  patented his  [Benz Patent-Motorwagen](https://en.wikipedia.org/wiki/Benz_Patent-Motorwagen "Benz Patent-Motorwagen"). Cars became widely available in the early 20th century. One of the first cars accessible to the masses was the 1908  [Model T](https://en.wikipedia.org/wiki/Ford_Model_T "Ford Model T"), an American car manufactured by the  [Ford Motor Company](https://en.wikipedia.org/wiki/Ford_Motor_Company "Ford Motor Company"). Cars were rapidly adopted in the US, where they replaced  [animal-drawn](https://en.wikipedia.org/wiki/Draft_animal "Draft animal")  [carriages](https://en.wikipedia.org/wiki/Carriage "Carriage")  and carts, but took much longer to be accepted in Western Europe and other parts of the world.
 
-![](https://www.google.com/url?sa=i&url=https://www.forbes.com/sites/jimgorzelany/2019/07/23/here-are-the-coolest-new-cars-for-2020/&psig=AOvVaw2a0TAiD7JiXMZwXIuK5HPY&ust=1596347803962000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMirt5Cp-eoCFQAAAAAdAAAAABAF)
+![](https://specials-images.forbesimg.com/imageserve/5d35eacaf1176b0008974b54/960x0.jpg?cropX1=790&cropX2=5350&cropY1=784&cropY2=3349)
 
 ## ordered list
 1. ferrari
