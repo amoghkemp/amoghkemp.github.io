@@ -1,5 +1,6 @@
 # Python Programs 
 {:toc}
+
 ## Diagonal 
 paint the diagonal squares black 
 ```python
