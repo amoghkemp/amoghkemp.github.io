@@ -23,3 +23,4 @@ paint_row(3)
 ```
 
 ## output
+<img src="/images/paint_row.png" alt="paint_row" width="200"/>
