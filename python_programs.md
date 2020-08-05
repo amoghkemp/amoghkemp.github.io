@@ -1,8 +1,8 @@
 # Python Programs 
 * TOC {:toc}
 for all the grid problems one must import grid.py
-```
-from grid import*
+```python
+from grid import *
 ```
 
 ## Diagonal 
