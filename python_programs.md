@@ -10,3 +10,4 @@ show()
 ```
 
 ## output 
+![](/images/diagonal.PNG)
