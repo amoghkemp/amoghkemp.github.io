@@ -1,5 +1,5 @@
 # Python Programs 
-{:toc}
+* TOC {:toc}
 
 ## Diagonal 
 paint the diagonal squares black 
