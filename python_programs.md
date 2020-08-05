@@ -11,3 +11,15 @@ show()
 
 ## output 
 <img src="/images/diagonal.PNG" alt="diagonal" width="200"/>
+
+## Paint Row
+write a function that takes as input a number *r* and paints the *r*th row
+```python
+n=8
+def paint_row(r):
+    for i in range(n):
+        paint_black(r-1,i)
+paint_row(3)
+```
+
+## output
