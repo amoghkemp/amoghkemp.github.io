@@ -10,4 +10,4 @@ show()
 ```
 
 ## output 
-![](/images/diagonal.PNG)
+<img src="/images/diagonal.PNG" alt="diagonal" width="200"/>
