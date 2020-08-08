@@ -14,7 +14,6 @@ for i in range(n):
     paint_black(i,i)
 show()
 ```
-
 ## output 
 <img src="/images/diagonal.PNG" alt="diagonal" width="200"/>
 
@@ -28,7 +27,6 @@ def paint_row(r):
         paint_black(r-1,i)
 paint_row(3)
 ```
-
 ## output
 <img src="/images/paint_row.png" alt="paint_row" width="200"/>
 
@@ -46,7 +44,6 @@ def prime_number(n):
     return(prime)
 prime_number(17)
 ```
-
 ## output
 ```python
 True
@@ -66,7 +63,6 @@ def gcd(a,b):
     print(largest)
 gcd(18,42)
 ```
-
 ## output
 ```python
 6
@@ -81,7 +77,6 @@ def lcm(a,b):
             return(i)
 lcm(54,24)
 ```
-
 ## output
 ```python
 216
