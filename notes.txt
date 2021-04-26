@@ -1,0 +1,14 @@
+1. paper making description
+2. fundraising description- cause=gosports, money=100000, donors were family, pic of certificate  
+3. python codes:
+    leetcodes 
+    python turtle 
+4. sports:
+    swimming 
+    basketball 
+5. gaming:
+    rocket league 
+    valorant 
+6. projects:
+    drone project 
+    pygame 
