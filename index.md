@@ -1,5 +1,5 @@
 
-# welcome to amogh's homepage 
+# Welcome to Amogh's homepage 
 
 ## this is the place where i shall present all my programming projects and writings.
 
