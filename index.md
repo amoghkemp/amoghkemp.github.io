@@ -1,5 +1,5 @@
 
-# Welcome to Amogh Kempanna's homepage 
+# Welcome to Amogh's homepage 
 
 
 
