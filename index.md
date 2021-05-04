@@ -15,6 +15,30 @@ Cars came into global use during the 20th century, and  [developed economies](ht
 
 ![](https://specials-images.forbesimg.com/imageserve/5d35eacaf1176b0008974b54/960x0.jpg?cropX1=790&cropX2=5350&cropY1=784&cropY2=3349)
 
+
+# Projects
+
+ - Online courses - Harvard CS50x.
+ - Drone
+ - Python Leetcode: www.leetcode.com/amogh5220
+ - Pygame
+
+# Sports
+ - Basketball
+ - Squash
+ - Swimming
+ - Football
+ - 100m races - medals?
+
+# Other activities
+ - Fund raising on GoSports.com. Collected over Rs. 1.5L to help paraolympic atheletes. 
+ - Taught adults to use payment applications like PayTM. [tribesforgood.com]
+ - Made over 500 paper bags for Zav.com. I had one month to make the paper bags. Dec - 2020.
+ 
+# Treks
+ - Get pictures
+ 
+
 ## ordered list
 1. [ferrari](https://amoghkemp.github.io/ferrari)
 2. mercedes-benz 
