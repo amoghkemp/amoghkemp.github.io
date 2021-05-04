@@ -1,5 +1,7 @@
 
-# Welcome to Amogh's homepage 
+# Welcome to Amogh Kempanna's homepage 
+
+
 
 ## this is the place where i shall present all my programming projects and writings.
 
