@@ -66,7 +66,8 @@ b = 6
 print(" the sum is",a+b)
 ```
 
-![](images/img1.png)
+![](images/img1.jpg)
+
 
 
 
