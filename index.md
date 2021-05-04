@@ -66,7 +66,8 @@ b = 6
 print(" the sum is",a+b)
 ```
 
-![](images/diagonal.png)
+![](images/paint_row.png)
+
 
 
 
