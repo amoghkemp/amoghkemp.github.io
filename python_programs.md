@@ -140,3 +140,25 @@ done()
 ```
 ## output 
 ![](/images/bullseye.png)
+
+## square spiral
+replace the function `draw_circle` with `draw_rectangle` to get this 
+```python
+def draw_rectangle(x,y,r,color):
+    t.penup()
+    t.goto(0-(r),0+(r))
+    t.pendown()
+    t.color("black",color)
+    t.begin_fill()
+    t.fd(r*2)
+    t.rt(90)
+    t.fd(r*2)
+    t.rt(90)
+    t.fd(r*2)
+    t.rt(90)
+    t.fd(r*2)
+    t.rt(90)
+    t.end_fill()
+```
+## output 
+![](/images/square_ring.png)
