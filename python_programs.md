@@ -99,3 +99,44 @@ turtle.exitonclick()
 ```
 ## output
 ![](/images/hexagon_spiral.png)
+
+## bullseye 
+makes concentric rings 
+```python
+from turtle import *
+
+s=getscreen()
+
+speed(0)
+
+t=Turtle()
+```
+```python
+def draw_circle(x,y,r,color):
+    t.penup()
+    t.goto(x,y-r)
+    t.pendown()
+    t.color("black",color)
+    t.begin_fill()
+    t.circle(r)
+    t.end_fill()
+```
+```python
+def draw_ring(x,y,r,t):
+    draw_circle(x,y,r,"black")
+    draw_circle(x,y,r-t,"white")
+```
+```python
+def draw_concentric_ring(x,y,r,n):
+    t=r/n
+    for i in range(n):
+        if r>0:
+            draw_ring(x,y,r,t)
+            r=r-(t*2)
+```
+```python
+draw_concentric_ring(0,0,100,10)
+done()
+```
+## output 
+![](/images/bullseye.png)
