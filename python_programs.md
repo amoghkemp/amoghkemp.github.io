@@ -98,4 +98,4 @@ for x in range(80):
 turtle.exitonclick()
 ```
 ## output
-<img src="/images/hexagon_spiral.png" />
+![](/images/hexagon_spiral.png)
