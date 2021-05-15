@@ -81,3 +81,21 @@ lcm(54,24)
 ```python
 216
 ```
+
+## hexagon spiral 
+makes a spiral
+```python
+# import turtle library
+import turtle             
+colors = [ "red","purple","blue","green","orange","yellow"]
+my_pen = turtle.Pen()
+turtle.bgcolor("black")
+for x in range(80):
+    my_pen.pencolor(colors[x % 6])
+    my_pen.width(x/100 + 1)
+    my_pen.forward(x)
+    my_pen.left(59)
+turtle.exitonclick()
+```
+## output
+<img src="/images/hexagon_spiral.png" />
