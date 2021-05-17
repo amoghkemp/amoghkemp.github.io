@@ -183,3 +183,276 @@ pascal([1,3,3,1])
 ```python
 [1, 4, 6, 4, 1]
 ```
+## triangle 
+makes a triangle usings 'X'
+```python 
+def triangle(t):
+    for i in range(t):
+        print("X"*(i+1))
+```
+```python
+triangle(6)
+```
+## output
+```python
+X
+XX
+XXX
+XXXX
+XXXXX
+XXXXXX
+```
+## reverse triangle 
+reverses the triangle 
+```python 
+def reverse_triangle(t):
+    for i in range(t):
+        str1 = " "*i
+        str2 = "x"*(t-i)
+        print( str1+str2 )
+```
+```python
+reverse_triangle(5)
+```
+## output
+```python 
+xxxxx
+ xxxx
+  xxx
+   xx
+    x
+```
+## flip triangle 
+```python 
+def flip_triangle(t):
+    for i in range(t):
+        str1 = " "*(t-i)
+        str2 = "x"*(i+1)
+        print( str1+str2 )
+```
+```python 
+flip_triangle(5)
+```
+## output 
+```python 
+     x
+    xx
+   xxx
+  xxxx
+ xxxxx
+```
+## pyramid 
+```python 
+def triangle(n):
+    if n%2==0:
+        n = n - 1
+    spaces = (int) (n/2-1)
+    for i in range(n):
+        if i%2==1:
+            print(". "*(spaces)+(" x"*i))
+            spaces = spaces-1
+```
+```python 
+triangle(33)
+```
+## output 
+```python 
+. . . . . . . . . . . . . . .  x
+. . . . . . . . . . . . . .  x x x
+. . . . . . . . . . . . .  x x x x x
+. . . . . . . . . . . .  x x x x x x x
+. . . . . . . . . . .  x x x x x x x x x
+. . . . . . . . . .  x x x x x x x x x x x
+. . . . . . . . .  x x x x x x x x x x x x x
+. . . . . . . .  x x x x x x x x x x x x x x x
+. . . . . . .  x x x x x x x x x x x x x x x x x
+. . . . . .  x x x x x x x x x x x x x x x x x x x
+. . . . .  x x x x x x x x x x x x x x x x x x x x x
+. . . .  x x x x x x x x x x x x x x x x x x x x x x x
+. . .  x x x x x x x x x x x x x x x x x x x x x x x x x
+. .  x x x x x x x x x x x x x x x x x x x x x x x x x x x
+.  x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+ x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+ ```
+ ## diamond 
+ merges 'triangle' and 'reverse_triangle' to form a diamond 
+ ```python 
+ def reverse_triangle(n):
+    for i in range(n):
+        if i%2==1:
+            str1 = "."*i
+            str2 = "x "*(n-i-1)
+            print(str1+str2)
+```
+```python 
+def mirror(n):
+    triangle(n)
+    reverse_triangle(n)
+```
+```python
+mirror(25)
+```
+## output 
+```python 
+. . . . . . . . . . .  x
+. . . . . . . . . .  x x x
+. . . . . . . . .  x x x x x
+. . . . . . . .  x x x x x x x
+. . . . . . .  x x x x x x x x x
+. . . . . .  x x x x x x x x x x x
+. . . . .  x x x x x x x x x x x x x
+. . . .  x x x x x x x x x x x x x x x
+. . .  x x x x x x x x x x x x x x x x x
+. .  x x x x x x x x x x x x x x x x x x x
+.  x x x x x x x x x x x x x x x x x x x x x
+ x x x x x x x x x x x x x x x x x x x x x x x
+.x x x x x x x x x x x x x x x x x x x x x x x 
+...x x x x x x x x x x x x x x x x x x x x x 
+.....x x x x x x x x x x x x x x x x x x x 
+.......x x x x x x x x x x x x x x x x x 
+.........x x x x x x x x x x x x x x x 
+...........x x x x x x x x x x x x x 
+.............x x x x x x x x x x x 
+...............x x x x x x x x x 
+.................x x x x x x x 
+...................x x x x x 
+.....................x x x 
+.......................x 
+```
+## keyboard input in pygame 
+this allows you to move a rectangle and change its color 
+you need to have pygame installed for ths to work
+```python 
+import pygame
+import time 
+
+pygame.init()
+
+white = (255,255,255)
+black = (0,0,0)
+red = (255,0,0)
+blue = (0,0,200)
+green = (0,200,0)
+color = blue
+count=0
+x=300
+y=300
+direction="still"
+dir_x=0
+dir_y=0
+
+clock = pygame.time.Clock()
+
+block_size = 10
+FPS = 30
+
+gameDisplay = pygame.display.set_mode((800,600))
+pygame.display.set_caption('Slither')
+
+
+gameExit = False
+
+while not gameExit:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            gameExit = True
+        if event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_r:
+                color = red
+                count+=1
+            if event.key == pygame.K_g:
+                color = green
+                count+=1
+            if event.key == pygame.K_b:
+                color = blue
+                count+=1
+            if event.key == pygame.K_RIGHT:
+                dir_x=1
+                dir_y=0
+            if event.key == pygame.K_LEFT:
+                dir_x=-1
+                dir_y=0
+            if event.key == pygame.K_UP:
+                dir_x=0
+                dir_y=-1
+            if event.key == pygame.K_DOWN:
+                dir_x=0
+                dir_y=1
+        if event.type == pygame.KEYUP:
+            dir_x=0
+            dir_y=0
+                
+    x+=dir_x
+    y+=dir_y
+    
+    gameDisplay.fill(white)
+    pygame.draw.rect(gameDisplay, color, [x,y,200,101])
+    pygame.display.update()
+    
+    clock.tick(FPS)
+pygame.quit()
+quit()
+```
+## output 
+![](/images/pygame_simple.gif)
+
+## projectile motion 
+press once to start and twice to quit 
+```python 
+import pygame
+import time
+
+pygame.init()
+
+white = (255,255,255)
+purple = (255,0,255)
+color = purple
+x=0
+y=580
+dir_x=0
+dir_y=580
+t=0
+v=60
+start=False
+stop=True
+count=0
+
+
+clock = pygame.time.Clock()
+
+block_size = 10
+FPS = 30
+
+gameDisplay = pygame.display.set_mode((800,600))
+pygame.display.set_caption('Slither')
+
+gameExit = False
+
+while not gameExit:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            gameExit = True
+        if event.type == pygame.KEYDOWN:
+            start=True
+            count+=1
+        if count==2:
+            gameExit=True
+    gameDisplay.fill(white)
+    pygame.draw.rect(gameDisplay, color, [x,y,20,20])
+    if start==True:
+        dir_x=v*t
+        dir_y=560-(v*t-(5*(t**2)))
+    pygame.display.update()
+    x=dir_x
+    y=dir_y
+    t+=0.05
+    if x>=800:
+        gameExit=True
+    
+    
+    clock.tick(FPS)
+
+pygame.quit()
+quit()
+```
+
