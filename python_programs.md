@@ -162,3 +162,24 @@ def draw_rectangle(x,y,r,color):
 ```
 ## output 
 ![](/images/square_ring.png)
+
+## pascal 
+adds adjacent numbers in a list 
+```python 
+def pascal(l):
+    r=[]
+    r.append(1)
+    for i in range(len(l)):
+        if i<len(l)-1:
+            n=l[i]+l[i+1]
+            r=r+[n]
+    r.append(1)
+    return(r)
+```
+```python
+pascal([1,3,3,1])
+```
+## output 
+```python
+[1, 4, 6, 4, 1]
+```
