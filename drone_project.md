@@ -4,7 +4,7 @@
 
 ## Description
 
-We want the drone to move towards a target which is denoted by a marker. The drone does not have a camera, so we use the laptop's camera.
+We make the drone to move towards a tagged target. The drone does not have a camera, so we use the laptop's camera.
 The laptop takes a picture of the environment, detects the marker and then instructs the drone to fly to the target.
 
 
