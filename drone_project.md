@@ -34,6 +34,18 @@ The laptop takes a picture of the environment, detects the marker and then instr
 
 <img src="images/robolink.jpeg" width=200></img>
 
+'''
+  0 import CoDrone
+  1 from CoDrone import Direction
+  2
+  3 drone = CoDrone.CoDrone()
+  4 drone.pair( drone.Nearest )
+  5
+  6 drone.turn(Direction.LEFT,2,80)
+  7 drone.turn(Direction.RIGHT,2,80)
+  8 drone.land()
+
+'''
 
 
 
