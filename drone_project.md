@@ -32,6 +32,10 @@ The laptop takes a picture of the environment, detects the marker and then instr
 ### Program that instructs the drone to fly to the target
 
 
+<img src="images/robolink.jpeg" width=200></img>
+
+
+
 
 ### Demo [Video]
 
