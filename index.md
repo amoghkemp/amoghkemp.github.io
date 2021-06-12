@@ -23,12 +23,12 @@ Cars came into global use during the 20th century, and  [developed economies](ht
  - Python Leetcode: www.leetcode.com/amogh5220
  - Pygame
 
-# Sports
+# Sports I have played 
  - Basketball
  - Squash
- - Swimming
+ - Swimming - I have won many medals for most of the strokes in swimming 
  - Football
- - 100m races - medals?
+ - 100m races - I won a few races 
 
 # Other activities
  - Fund raising on GoSports.com. Collected over Rs. 1.5L to help paraolympic atheletes. 
