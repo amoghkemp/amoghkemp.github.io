@@ -24,8 +24,13 @@ Cars came into global use during the 20th century, and  [developed economies](ht
  - Pygame
 
 # Sports I have played 
+## squash
+I started playing squash a few months after covid hit. I go to Brigade Club at Malleswaram and usually play with my dad and his
+friends. I was the youngest in the group. He has been a long-time player and nudged me to try it. Once I gave it a shot I started liking it. Just before
+the second wave of lockdown, I used to play almost every other day. I wish there was a squash court at school so that I could play it
+along with basketball. I'm still an amateur and don't really follow professional games. Compared to tennis, I find squash to be more fun because of the smaller court. The first to get to 11 points wins the game. Unlike table tennis, the player who wins the point gets to serve. I haven't tried playing doubles.
+
  - Basketball
- - Squash
  - Swimming - I have won many medals for most of the strokes in swimming 
  - Football
  - 100m races - I won a few races 
@@ -34,6 +39,7 @@ Cars came into global use during the 20th century, and  [developed economies](ht
  - Fund raising on GoSports.com. Collected over Rs. 1.5L to help paraolympic atheletes. 
  - Taught adults to use payment applications like PayTM. [tribesforgood.com]
  - Made over 500 paper bags for Zav.com. I had one month to make the paper bags. Dec - 2020.
+ - 
  
 # Treks
  - Get pictures
