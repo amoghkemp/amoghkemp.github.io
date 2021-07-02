@@ -1,6 +1,7 @@
 
-## Welcome to my homepage. You can find information about my projects, programming and hobbies.
+## Home
 
+Welcome to my homepage. You can find information about my projects, programming and hobbies.
 
 
 <p>
@@ -10,14 +11,15 @@ I'm a class XI student at Bangalore International School.
 
 
 
-# Projects
+## Projects
 
  - Online courses - Harvard CS50x.
  - Drone
  - Python Leetcode: www.leetcode.com/amogh5220
  - Pygame
 
-# Sports I have play
+# Sports
+
 ## squash
 
 ![](images/squash.png)
