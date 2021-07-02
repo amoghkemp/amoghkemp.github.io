@@ -1,8 +1,4 @@
 
-# Amogh Kempanna
-
-
-
 ## Welcome to my homepage. You can find information about my projects, programming and hobbies.
 
 
