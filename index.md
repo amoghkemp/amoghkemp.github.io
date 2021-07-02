@@ -3,9 +3,10 @@
 
 
 
-## Welcome to my homepage. You can find information about my projects, programming and hobbies.
+## Welcome to my homepage. I write about about my projects, python programs and hobbies here.
 
-![](images/amogh.png)
+I'm Amogh. I am student of Banglaore International School and currently studying in my XI std. I into sports, programming, games and anything related to tech. I wish to pursue a career in engineering. <img align="right" src="images/amogh.png">
+
 
 
 # Projects
