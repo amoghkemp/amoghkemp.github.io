@@ -7,6 +7,12 @@
 
 ![](images/amogh.png)
 
+<p>
+I'm Amogh. I'm a class XI student at Bangalore International School.
+<img src="/images/amogh.png" align="right" width="200px"/>
+</p>
+
+
 
 # Projects
 
