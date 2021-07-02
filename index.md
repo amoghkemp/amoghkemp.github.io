@@ -8,7 +8,7 @@
 
 
 <p>
-I'm Amogh. I'm a class XI student at Bangalore International School.
+I'm a class XI student at Bangalore International School.
 <img src="/images/amogh.png" align="right" width="200px"/>
 </p>
 
@@ -52,42 +52,5 @@ I started playing football sometime during school and went for a lot of classes 
 # Treks
  - Get pictures
  
-
-## ordered list
-1. [ferrari](https://amoghkemp.github.io/ferrari)
-2. mercedes-benz 
-3. nissan 
-4. bmw
-5. toyota 
-
-## unordered list 
-- lamborghini 
-- ford
-- volvo
-- audi 
-- mclaren
-
-|car model|max speed (MPH)|type of engine|
-|--|--|--|
-|Bugatti Chiron Sport|261|
-|Mercedes-AMG Project One|217|
-|Lamborghini Aventador SVJ|217|
-I started playing football sometime during school and went for a lot of classes for it. I have gone for a few tournaments from school and a few outside of school. I stopped playing football because it got boring for me and i had just got into basketball.| ![](images/football.png) |
-
-
-
-## code
-```python
-a = 4
-b = 6
-print(" the sum is",a+b)
-```
-
-![](images/paint_row.png)
-
-
-
-
-
 
 
