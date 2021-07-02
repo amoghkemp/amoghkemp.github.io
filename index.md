@@ -5,7 +5,7 @@
 
 ## Welcome to my homepage. You can find information about my projects, programming and hobbies.
 
-![](images/amogh.png)
+
 
 <p>
 I'm Amogh. I'm a class XI student at Bangalore International School.
