@@ -23,11 +23,11 @@ I'm Amogh. I'm a class XI student at Bangalore International School.
 
 # Sports I have played 
 ## squash
-|--||--|
-|![](images/squash.png)| |I started playing squash a few months after covid hit. I go to Brigade Club at Malleswaram and usually play with my dad and his
+![](images/squash.png) 
+I started playing squash a few months after covid hit. I go to Brigade Club at Malleswaram and usually play with my dad and his
 friends. I was the youngest in the group. He has been a long-time player and nudged me to try it. Once I gave it a shot I started liking it. Just before
 the second wave of lockdown, I used to play almost every other day. I wish there was a squash court at school so that I could play it
-along with basketball. I'm still an amateur and don't really follow professional games. Compared to tennis, I find squash to be more fun because of the smaller court. The first to get to 11 points wins the game. Unlike table tennis, the player who wins the point gets to serve. I haven't tried playing doubles.|
+along with basketball. I'm still an amateur and don't really follow professional games. Compared to tennis, I find squash to be more fun because of the smaller court. The first to get to 11 points wins the game. Unlike table tennis, the player who wins the point gets to serve. I haven't tried playing doubles.
 ## basketball 
 ![](images/basketball.png)
 i started playing basketball from around 6th grade, i haven't gone for any classes I have just played it for fun in school during the breaks. I dont follow proffesional games of basketball. I got into basketball because thats what my friends in school strated to play.
