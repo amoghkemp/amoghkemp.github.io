@@ -17,7 +17,7 @@
 
 # Sports I have played 
 ## squash
-![](images/sqaush.png)
+![](images/squash.png)
 I started playing squash a few months after covid hit. I go to Brigade Club at Malleswaram and usually play with my dad and his
 friends. I was the youngest in the group. He has been a long-time player and nudged me to try it. Once I gave it a shot I started liking it. Just before
 the second wave of lockdown, I used to play almost every other day. I wish there was a squash court at school so that I could play it
