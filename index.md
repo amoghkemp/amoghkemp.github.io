@@ -68,8 +68,7 @@ I started playing football sometime during school and went for a lot of classes 
 |Bugatti Chiron Sport|261|
 |Mercedes-AMG Project One|217|
 |Lamborghini Aventador SVJ|217|
-I started playing football sometime during school and went for a lot of classes for it. I have gone for a few tournaments from school and a few outside of school. I stopped playing football because it got boring for me and i had just got into basketball. 
-| ![](images/football.png)
+I started playing football sometime during school and went for a lot of classes for it. I have gone for a few tournaments from school and a few outside of school. I stopped playing football because it got boring for me and i had just got into basketball.| ![](images/football.png) |
 
 
 
